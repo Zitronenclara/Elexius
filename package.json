@@ -1,0 +1,23 @@
+{
+  "name": "elexius",
+  "version": "1.0.0",
+  "description": "an upcomming Discord Bot-Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zitronenclara/Elexius.git"
+  },
+  "author": "Clara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zitronenclara/Elexius/issues"
+  },
+  "homepage": "https://github.com/Zitronenclara/Elexius#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
