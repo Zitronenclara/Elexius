@@ -6,7 +6,7 @@ module.exports = {
 	description: 'Ping!',
 	options: [],
     /**
-     * Initializes the given command as a guild slash command
+     * Returns the client latency
      *
      * @author: Clara
      * @param {Object} d The command data
