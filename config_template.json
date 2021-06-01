@@ -1,5 +1,7 @@
 {
     "token": "BOT TOKEN",
+    "appID": "APPLICATION ID",
     "DBurl": "mongodb://localhost:27017/Elexius",
-    "ownerID": "BOT OWNER ID"
+    "ownerID": "BOT OWNER ID",
+    "mainGuildID": "ID OF THE BOTS MAIN GUILD"
 }
