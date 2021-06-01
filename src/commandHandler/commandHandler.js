@@ -1,6 +1,6 @@
 // IMPORTANT IMPORTS
 const Discord = require('discord.js')
-let fs = require("fs");
+const fs = require("fs");
 
 /**
  * Loads all commands in the command folder and appends them to the client object for later use
